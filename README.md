@@ -15,6 +15,6 @@ PC support Rates / HR
 
 ```mermaid
 Avg hours consumed
-"Normal PC Issues " : 80
+"Normal PC Issues" : 80
 "complex issues" : 20
 ```
