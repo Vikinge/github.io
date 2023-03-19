@@ -1,22 +1,17 @@
 # Asgrd
 
-### more content to follow
 
-:octocat:
+PC support Rates / HR
+
+| Rate | Function |
+|-----:|-----------|
+|    85| Desktop support|
+|   160| OS upgrade    |
+|   250| Network/security \
+
 
 * * *
 
-
-
-Diagram
-
-
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
 
 ```mermaid
 pie
