@@ -1,7 +1,7 @@
 title: Asgrd
-description: staging page
+description: secure Access has been granted
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: jekyll-remote-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
